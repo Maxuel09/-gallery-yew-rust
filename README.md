@@ -2,6 +2,8 @@
 # Experimenta la Web Gallery: Una creación en Yew Framework con Rust
 
 La web tiene un diseño simple y utilizando boostrap.
+<img src="./src/img/Captura de pantalla 2024-02-05 103115.png">
+
 
 ## Color Reference
 
